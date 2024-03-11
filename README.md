@@ -1,6 +1,7 @@
 # API de Jogo
 
 Esta é uma API simples para um jogo que permite inserir e atualizar informações de jogadores em um banco de dados MySQL.
+é retonar um json com o nome é pontos do jogadores
 
 ## Configuração
 
