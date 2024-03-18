@@ -1,4 +1,4 @@
-# API de Jogo
+# API de Ranking para Jogo
 
 Esta é uma API simples para um jogo que permite inserir e atualizar informações de jogadores em um banco de dados MySQL.
 é retonar um json com o nome é pontos do jogadores
@@ -30,6 +30,10 @@ Esta é uma API simples para um jogo que permite inserir e atualizar informaçõ
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
+
+## Créditos
+
+- Desenvolvido por [João Marcos](https://grupo.jm7087.com)
 
 ## Licença
 
