@@ -6,8 +6,9 @@ Esta é uma API simples para um jogo que permite inserir e atualizar informaçõ
 ## Configuração
 
 1. **Clonando o repositório:**
+ - Coloque a pasta em um servidor PHP local como o XAMPP ou em uma hospedagem.
 
-2. **Importando o banco de dados:**
+3. **Importando o banco de dados:**
 - Execute o script SQL fornecido (`script.sql`) para criar o banco de dados e a tabela necessária.
 
 3. **Configurando a conexão com o banco de dados:**
