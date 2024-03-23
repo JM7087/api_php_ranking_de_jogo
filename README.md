@@ -22,9 +22,13 @@ Esta é uma API simples para um jogo que permite inserir e atualizar informaçõ
  ```
 
 - **Listar dados em JSON:**
-- Para obter uma lista de todos os jogadores e suas pontuações em formato JSON, acesse o arquivo `listar_dados.php`. Exemplo:
+- Para obter uma lista de todos os jogadores e suas pontuações em formato JSON, acesse o arquivo `listar_ranking.php`. Exemplo:
  ```
- http://seuservidor.com/listar_dados.php
+ http://seuservidor.com/listar_ranking.php?top=0
+ ```
+- Ou se quiser só dos 10 melhores jogadores 
+ ```
+ http://seuservidor.com/listar_ranking.php?top=1
  ```
 
 ## Contribuição
